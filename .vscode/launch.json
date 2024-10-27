@@ -15,12 +15,12 @@
             "miDebuggerPath": "d:\\Users\\admin\\Downloads\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
-                    "description": "啟用 gdb 的美化顯示",
+                    "description": "启用GDB美化提示",
                     "text": "-enable-pretty-printing",
                     "ignoreFailures": true
                 },
                 {
-                    "description": "將反組譯碼變體設為 Intel",
+                    "description": "设置intel格式反汇编",
                     "text": "-gdb-set disassembly-flavor intel",
                     "ignoreFailures": true
                 }

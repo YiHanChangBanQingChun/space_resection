@@ -2,7 +2,7 @@
 
 ## Create by 广州大学地信22级 yhcbqc
 
-### 使用Visual Studio Code + G++搭建
+### 使用Visual Studio Code 与 G++搭建
 
 #### 目录
 

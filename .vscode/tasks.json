@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: g++.exe 建置使用中檔案",
+			"label": "C/C++: g++.exe 摄影测量",
 			"command": "d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-fdiagnostics-color=always",
@@ -20,7 +20,7 @@
 				"$gcc"
 			],
 			"group": "build",
-			"detail": "編譯器: d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe"
+			"detail": "摄影测量编译器: d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe"
 		}
 	]
 }
