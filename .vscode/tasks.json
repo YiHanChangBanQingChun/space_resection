@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe 建置使用中檔案",
+			"command": "d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"-ID:/vs_code_save/vscode_for_cpp/eigen-3.4.0"
+			],
+			"options": {
+				"cwd": "d:\\Users\\admin\\Downloads\\mingw64\\bin"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "編譯器: d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe"
+		}
+	]
+}

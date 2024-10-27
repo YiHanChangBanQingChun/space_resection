@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",    
+                "D:/vs_code_save/vscode_for_cpp/eigen-3.4.0"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "d:\\Users\\admin\\Downloads\\mingw64\\bin\\g++.exe",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
