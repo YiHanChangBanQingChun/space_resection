@@ -6,4 +6,5 @@
 
 #### 目录
 
-1. [摄影测量后方交会解算](\src\Space_resection.cpp)
+1. [摄影测量后方交会解算cpp](/src/Space_resection.cpp)
+2. [摄影测量后方交会解算py](/src/Space_resection.py)
